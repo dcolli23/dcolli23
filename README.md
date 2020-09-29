@@ -1,9 +1,9 @@
 <h1 align="center">Hi, I'm Dylan Colli</h1>
 <h3 align="center">A junior software engineer looking for work in Ann Arbor, MI</h3>
 
-- 🔭 I’m currently working on [Ingreedyents](http://dcolli23.github.io/ingreedyents)
+- 🔭 I’m currently working on [Ingreedyents](http://dcolli23.github.io/ingreedyents) and [uniTypes](https://github.com/dcolli23/uniTypes).
 
-- 🌱 I’m currently learning **Advanced C++**
+- 🌱 I’m currently learning **Advanced C++** through [Dive Into Design Patterns](https://github.com/dcolli23/design_pattern_tutorials).
 
 - 👨‍💻 All of my projects are available at [https://dcolli23.github.io/pages/projects/projects.html](https://dcolli23.github.io/pages/projects/projects.html)
 
